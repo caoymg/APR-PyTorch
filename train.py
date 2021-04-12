@@ -154,11 +154,6 @@ class MF(nn.Module):
             adv_loss = self.reg_adv *(-log_prob) + loss
             adv_loss.backward()
 
-            # Restore embedding data (and update),should i need to add this...stil thinking about it...😇
-            u.data = u_clone
-            i.data = i_clone
-            j.data = j_clone
-
             return adv_loss
 
 
