@@ -3,7 +3,7 @@
 
 The repository implement the [Adversarial Personalized Ranking for Recommendation](https://dl.acm.org/doi/abs/10.1145/3209978.3209981) with PyTorch.
 
-I am still in the testing phase of the data set. If there is any problem with the code, please contact me.
+I am still in the testing phase of the data set. If there is any problem with the code, please contact me. 🌎 🌏 🌍 🪐☄️
 
 ## Environment
 
