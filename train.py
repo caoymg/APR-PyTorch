@@ -326,7 +326,7 @@ if __name__ == '__main__':
                         help="Number of epoch during training")
     parser.add_argument('--batch_size',
                         type=int,
-                        default=20000,
+                        default=2000,
                         help="Batch size in one iteration")
     parser.add_argument('--verbose',
                         type=int,
