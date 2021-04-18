@@ -5,8 +5,9 @@ The repository implement the [Adversarial Personalized Ranking for Recommendatio
 
 I am still in the testing phase of the data set. If there is any problem with the code, please contact me. 🌏 🪐☄️ 
 Although the overall performance still needs to be adjusted, it can be seen that the model's performance has been significantly improved after the adversarial training began(at epoch1500).
-<img src="https://p26-tt.byteimg.com/origin/pgc-image/8572be1a302747ae8ec98b511726d028" width="50%" height="50%" />
-<img src="https://p26-tt.byteimg.com/origin/pgc-image/34136e2efc194369b069c2bd5ea06b7c" width="50%" height="50%" />
+
+<img src="https://p26-tt.byteimg.com/origin/pgc-image/8572be1a302747ae8ec98b511726d028" width="30%" height="30%" />
+<img src="https://p26-tt.byteimg.com/origin/pgc-image/34136e2efc194369b069c2bd5ea06b7c" width="30%" height="30%" />
 
 ## Environment
 
