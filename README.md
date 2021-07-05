@@ -3,7 +3,6 @@
 
 The repository implement the [Adversarial Personalized Ranking for Recommendation](https://dl.acm.org/doi/abs/10.1145/3209978.3209981) with PyTorch.
 
-I am still in the testing phase of the data set. If there is any problem with the code, please contact me. 🌏 🪐☄️ 
 Although the overall performance still needs to be adjusted, it can be seen that the model's performance has been significantly improved after the adversarial training began(at epoch1500).
 
 <img src="https://p26-tt.byteimg.com/origin/pgc-image/8572be1a302747ae8ec98b511726d028" width="30%" height="30%" />
